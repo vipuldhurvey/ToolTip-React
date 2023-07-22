@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Hosted Link: https://tooltip-chandni-kumari.netlify.app/
+Hosted Link: https://melodic-pegasus-15c13e.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
